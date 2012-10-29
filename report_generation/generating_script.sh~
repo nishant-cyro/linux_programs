@@ -1,4 +1,3 @@
-#!/bin/bash
 
 total_number=1
 
@@ -39,5 +38,5 @@ for i in {1..100}
     generate_random_city
     generate_random_domain
     generate_random_phone_number
-    echo "random$i@$random_domain|$random_city|$random_phone_number" >> subscribers.txt
+    echo "$i@$random_domain|$random_city|$random_phone_number" > subscribers.txt
   done
