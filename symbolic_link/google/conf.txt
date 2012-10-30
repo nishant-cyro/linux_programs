@@ -1,1 +1,1 @@
-yahoo/conf.txt
+../yahoo/conf.txt

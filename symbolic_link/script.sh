@@ -1,1 +1,1 @@
-ln -s yahoo/conf.txt google/conf.txt
+ln -s ../yahoo/conf.txt google/conf.txt
